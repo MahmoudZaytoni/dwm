@@ -2,6 +2,8 @@
 
 If you're new to dwm, please refer to their official [website](https://dwm.suckless.org).
 
+## Screenshot
+
 ![dwm](./screenshot.png)
 
 ## Installation
