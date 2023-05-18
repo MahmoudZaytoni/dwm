@@ -6,13 +6,13 @@ static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "monospace:size=12" };
-static const char dmenufont[]       = "monospace:size=12";
+static const char *fonts[]          = { "monospace:size=11" };
+static const char dmenufont[]       = "monospace:size=11";
 static const char col_gray1[]       = "#222222";/* background color */
 static const char col_gray2[]       = "#444444";/* inactive window border color */
 static const char col_gray3[]       = "#bbbbbb";/* font color */
 static const char col_gray4[]       = "#eeeeee";/* current tag and current window font color */ 
-static const char col_cyan[]        = "#005577";/* Top bar second color and active window border color*/
+static const char col_cyan[]        = "#458588";/* Top bar second color and active window border color*/
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
